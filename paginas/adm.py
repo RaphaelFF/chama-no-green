@@ -1,6 +1,6 @@
 import streamlit as st
 import uuid
-from ..dados import carregar_dados, salvar_dados, ARQUIVO_SUGESTOES
+from dados import carregar_dados, salvar_dados, ARQUIVO_SUGESTOES
 
 def interface_adm():
  

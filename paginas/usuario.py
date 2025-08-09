@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import datetime
-from ..dados import carregar_dados, salvar_dados, ARQUIVO_SUGESTOES, ARQUIVO_USUARIOS
+from dados import carregar_dados, salvar_dados, ARQUIVO_SUGESTOES, ARQUIVO_USUARIOS
 
 def interface_usuario_comum():
  

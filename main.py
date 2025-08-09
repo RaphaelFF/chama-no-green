@@ -1,6 +1,6 @@
 import streamlit as st
-from .paginas.adm import interface_adm
-from .paginas.usuario import interface_usuario_comum
+from paginas.adm import interface_adm
+from paginas.usuario import interface_usuario_comum
 
 # Senha simples para o ADM
 SENHA_ADM = "admin123"
