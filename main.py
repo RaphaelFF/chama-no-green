@@ -29,7 +29,6 @@ def main():
             if senha == SENHA_ADM:
                 st.session_state.acesso_adm = True
                 st.session_state.mostrar_login_adm = False 
-                st.experimental_rerun() 
             elif senha:
                 st.sidebar.error("Senha incorreta.")
 
