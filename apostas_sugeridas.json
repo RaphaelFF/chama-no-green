@@ -6,5 +6,13 @@
         "odd": 1.5,
         "casa_aposta": "BETANO",
         "status": "GREEN"
+    },
+    {
+        "id": "91e36b8e",
+        "jogo": "FLA X FLU ( 1,5) -> VAS X PAL (  X1 ) ",
+        "tipo_aposta": "MULTIPLA",
+        "odd": 2.45,
+        "casa_aposta": "BETANO",
+        "status": "RED"
     }
 ]
